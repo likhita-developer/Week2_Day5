@@ -1,0 +1,4 @@
+Customer,Actual_Churn,Predicted_Churn,Churn_Probability,Top_Churn_Factor,Top_Retention_Factor
+Customer 1,0,0,0.063690394,num__avg_monthly_spend,num__tenure
+Customer 2,0,1,0.9083924,num__long_term_contract,cat__TechSupport_No
+Customer 3,0,0,0.18407862,cat__Contract_One year,num__long_term_contract
