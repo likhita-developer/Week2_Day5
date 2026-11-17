@@ -1,0 +1,4 @@
+Model,CV ROC-AUC,CV F1
+Logistic Regression,0.846,0.593
+Random Forest,0.826,0.561
+Dummy Classifier,0.5,0.0
